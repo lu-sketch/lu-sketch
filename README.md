@@ -7,7 +7,7 @@
 - I am passionate about helping others to learn coding. 
 - 📫 How to reach me wiidlucille@gmail.com
 - LinkedIn - https://www.linkedin.com/in/lucille-jordaan-25ba7977/
-- Hyperiondev Profile - https://www.hyperiondev.com/portfolio/86892/
+- ✨ Website - https://lu-sketch.github.io/lucille_portfolio.github.io/
 
 <!---
 lu-sketch/lu-sketch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
