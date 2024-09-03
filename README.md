@@ -12,7 +12,7 @@
 
 📫 You can reach me at wiidlucille@gmail.com.
 
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/lucille-jordaan-25ba7977/).
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/lucillejordaan/).
 
 ✨ Visit my website at [Lucille Portfolio](https://lu-sketch.github.io/lucille_jordaan_portfolio/) to learn more about my work.
 
