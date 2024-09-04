@@ -14,5 +14,5 @@
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/lucillejordaan/).
 
-✨ Visit my website at [Lucille Portfolio](https://lu-sketch.github.io/lucille_jordaan_portfolio/) to learn more about my work.
+✨ Visit my website at [Lucille's Portfolio-Website](https://lu-sketch.github.io/lucille_jordaan_portfolio/) to learn more about my work.
 
