@@ -10,7 +10,7 @@
 
 💬 I am passionate about helping others learn coding and excel in their technical journey.
 
-📫 You can reach me at wiidlucille@gmail.com.
+📫 You can reach me at jordaanlucille1@gmail.com.
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/lucillejordaan/).
 
