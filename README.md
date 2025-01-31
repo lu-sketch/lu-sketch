@@ -25,11 +25,9 @@
 
 ## 🌱 Ongoing Projects
 - **Portfolio Website**: Showcasing my SQL & Data Analytics work  
-- **Citrus Industry Data Insights**: Helping farmers leverage data for efficiency  
+- **Citrus Industry Data Insights**: Building dashboards and provide analytical insights to help farmers leverage data for efficiency  
 
-📌 *Check out my projects on GitHub!* 
 
----
 
 ## 📫 Let's Connect
 
