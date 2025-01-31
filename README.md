@@ -34,7 +34,7 @@
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucillejordaan/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)]((https://lu-sketch.github.io/lucille_jordaan_portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://lu-sketch.github.io/lucille_jordaan_portfolio/)
 
 
 💬 I beleive that my experience in the Agricultural and finance sectors provide me with unique skills and insights as a data scientist
