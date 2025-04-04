@@ -1,8 +1,9 @@
-# Hi👋 I'm Lucille Jordaan
+# Hi👋 I'm Lucille 
 
 🚀 **Data Analyst | SQL & Python Enthusiast | Agri-Tech Innovator**  
 📍 Based in Kirkwood, focusing on data analytics for the citrus industry 🍊  
 💡 Passionate about leveraging data to drive insights for farmers & packhouses.
+💻 Focussing my software engineering skills in designing engaging, new, modern websites and applications.
 
 ---
 
